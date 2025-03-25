@@ -5,11 +5,20 @@ A multi-page travel website built using **HTML, CSS, and JavaScript**. This webs
 ---
 
 ## 📂 Project Structure
-/website-project │── index.html # Home Page │── about.html # About Us Page │── contact.html # Contact Us Page │── styles.css # Styling │── script.js # JavaScript for interactivity │── images/ # Folder for images │ ├── beach1.jpg
+/website-project 
+│── index.html # Home Page 
+│── about.html # About Us Page 
+│── contact.html # Contact Us Page 
+│── styles.css # Styling 
+│── script.js # JavaScript for interactivity 
+│── images/ # Folder for images 
+│ ├── beach1.jpg
 │ ├── beach2.jpg
 │ ├── temple1.jpg
 │ ├── temple2.jpg
-│ ├── country1.jpg │ ├── country2.jpg │── README.md # Project Documentation
+│ ├── country1.jpg
+│ ├── country2.jpg 
+│── README.md # Project Documentation
 
 ---
 
